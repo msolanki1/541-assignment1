@@ -1,0 +1,48 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #ffffff; /* White background for the header */
+    color: #333; /* Dark gray text color */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Navigation styles */
+nav {
+    background-color: #ffdbac; /* Light peach color for navigation */
+    padding: 10px;
+}
+
+/* Main content styles */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff; /* White background for the main content */
+    color: #333; /* Dark gray text color */
+    border-radius: 10px; /* Rounded corners for a container effect */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Add a subtle shadow for depth */
+}
+
+/* About Me container styles */
+section {
+    background-color: #0077b6; /* Blue background for the "About Me" container */
+    color: white; /* White text color for content inside the container */
+    padding: 10px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #ffffff; /* White background for the footer */
+    color: #333; /* Dark gray text color */
+    text-align: center;
+    padding: 10px;
+}
+
